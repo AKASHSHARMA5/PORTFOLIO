@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.0996e709.css",
-    "main.js": "/static/js/main.56bd1a0a.js",
+    "main.js": "/static/js/main.681db3b7.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/developerimg.png": "/static/media/developerimg.f062c0f2eb16f607a61e.png",
     "static/media/Resume-Akash sharma.pdf": "/static/media/Resume-Akash sharma.01e0351d4ca64ea7c19b.pdf",
     "index.html": "/index.html",
     "main.0996e709.css.map": "/static/css/main.0996e709.css.map",
-    "main.56bd1a0a.js.map": "/static/js/main.56bd1a0a.js.map",
+    "main.681db3b7.js.map": "/static/js/main.681db3b7.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0996e709.css",
-    "static/js/main.56bd1a0a.js"
+    "static/js/main.681db3b7.js"
   ]
 }
